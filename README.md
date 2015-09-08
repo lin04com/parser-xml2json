@@ -1,2 +1,3 @@
-# parser-xml2json
-parse xml to json, city json
+## Parse XML to JSON
+
+parse xml to json, json format.

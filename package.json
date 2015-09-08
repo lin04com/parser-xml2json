@@ -1,0 +1,16 @@
+{
+  "family": "study.me",
+  "name": "parse xml to json",
+  "author": "ErickSong",
+  "version": "0.1.0",
+  "description": "ERROR: No README data found!",
+  "main": "app.js",
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "xml2js": "^0.4.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD-2-Clause"
+}
